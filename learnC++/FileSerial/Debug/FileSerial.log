@@ -1,0 +1,35 @@
+﻿Build started 2020/6/28 20:27:02.
+     1>Project "D:\UDM\wurd\learnC++\FileSerial\FileSerial.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\FileSerial.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         d:\softInstall\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\FileSerial.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Graph.cpp
+         Graph.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         d:\softInstall\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UDM\wurd\learnC++\Debug\FileSerial.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\FileSerial.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\UDM\wurd\learnC++\Debug\FileSerial.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UDM\wurd\learnC++\Debug\FileSerial.lib" /MACHINE:X86 Debug\FileSerial.res
+         Debug\FileSerial.exe.embed.manifest.res
+         Debug\FileSerial.obj
+         Debug\FileSerialDoc.obj
+         Debug\FileSerialView.obj
+         Debug\Graph.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FileSerial.exe.embed.manifest" /manifest Debug\FileSerial.exe.intermediate.manifest "d:\softInstall\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         FileSerial.vcxproj -> D:\UDM\wurd\learnC++\Debug\FileSerial.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\FileSerial.unsuccessfulbuild".
+         Touching "Debug\FileSerial.lastbuildstate".
+     1>Done Building Project "D:\UDM\wurd\learnC++\FileSerial\FileSerial.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.12

@@ -1,0 +1,25 @@
+﻿Build started 2020/5/28 20:14:26.
+     1>Project "D:\UDM\wurd\learnC++\Menu2\Menu2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Menu2.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         d:\softInstall\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UDM\wurd\learnC++\Debug\Menu2.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Menu2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\UDM\wurd\learnC++\Debug\Menu2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UDM\wurd\learnC++\Debug\Menu2.lib" /MACHINE:X86 Debug\Menu2.res
+         Debug\Menu2.exe.embed.manifest.res
+         Debug\Menu2.obj
+         Debug\Menu2Doc.obj
+         Debug\Menu2View.obj
+         Debug\stdafx.obj
+     1>Menu2.obj : error LNK2019: unresolved external symbol "public: static struct CRuntimeClass * __stdcall CMainFrame::GetThisClass(void)" (?GetThisClass@CMainFrame@@SGPAUCRuntimeClass@@XZ) referenced in function "public: virtual int __thiscall CMenu2App::InitInstance(void)" (?InitInstance@CMenu2App@@UAEHXZ)
+     1>D:\UDM\wurd\learnC++\Debug\Menu2.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "D:\UDM\wurd\learnC++\Menu2\Menu2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:32.21

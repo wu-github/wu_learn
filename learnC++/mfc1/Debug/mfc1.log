@@ -1,0 +1,24 @@
+﻿Build started 2020/5/25 23:21:26.
+     1>Project "D:\UDM\wurd\learnC++\mfc1\mfc1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\mfc1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\mfc1.unsuccessfulbuild".
+         Touching "Debug\mfc1.lastbuildstate".
+     1>Done Building Project "D:\UDM\wurd\learnC++\mfc1\mfc1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

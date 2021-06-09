@@ -1,0 +1,38 @@
+﻿Build started 2020/6/20 17:59:37.
+     1>Project "D:\UDM\wurd\learnC++\Graphic\Graphic.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Graphic.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         d:\softInstall\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Graphic.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GraphicView.cpp SettingDlg.cpp
+         GraphicView.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         SettingDlg.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         d:\softInstall\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UDM\wurd\learnC++\Debug\Graphic.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Graphic.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\UDM\wurd\learnC++\Debug\Graphic.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UDM\wurd\learnC++\Debug\Graphic.lib" /MACHINE:X86 Debug\Graphic.res
+         Debug\Graphic.exe.embed.manifest.res
+         Debug\Graphic.obj
+         Debug\GraphicDoc.obj
+         Debug\GraphicView.obj
+         Debug\MainFrm.obj
+         Debug\SettingDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Graphic.exe.embed.manifest" /manifest Debug\Graphic.exe.intermediate.manifest "d:\softInstall\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Graphic.vcxproj -> D:\UDM\wurd\learnC++\Debug\Graphic.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Graphic.unsuccessfulbuild".
+         Touching "Debug\Graphic.lastbuildstate".
+     1>Done Building Project "D:\UDM\wurd\learnC++\Graphic\Graphic.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.04
